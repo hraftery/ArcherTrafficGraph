@@ -49,6 +49,7 @@ All together this little concert pops up a gnuplot window (running in AquaTerm o
 
 Lots.
 
+   * I'd really like some schooling on Perl style. I love Perl, but every time I write a script I feel like I'm butchering it, and there has to be a better way.
    * Make setting IP address easy.
    * Automatically authenticate.
    * Deal with heaps of IP addresses in a clearer way (I have 16, and the colours are too hard to distinguish).
