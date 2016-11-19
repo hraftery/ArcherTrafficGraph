@@ -1,4 +1,4 @@
-# Life Traffic Graph for TP-Link Archer C7 routers
+# Live Traffic Graph for TP-Link Archer C7 routers
 
 These scripts provides a live graph of network traffic passing through a TP-Link Archer C7 AC1750.
 
