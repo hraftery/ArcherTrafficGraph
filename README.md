@@ -49,13 +49,16 @@ All together this little concert pops up a gnuplot window (running in AquaTerm o
 
 Lots.
 
+   * Automatically authenticate.
+   * Packaging - script names, ease of execution, location of output files etc.
    * I'd really like some schooling on Perl style. I love Perl, but every time I write a script I feel like I'm butchering it, and there has to be a better way.
    * Make setting IP address easy.
-   * Automatically authenticate.
+   * Error reporting!
    * Deal with heaps of IP addresses in a clearer way (I have 16, and the colours are too hard to distinguish).
    * Improve refresh rate?
    * Allow zooming?
    * Fix bugs.
+   
    
 ## Contact
 
