@@ -44,3 +44,10 @@ So today I set about giving the Archer a graph. This is what I've hacked togethe
 Meanwhile `liveplot.sh` runs gnuplot in parallel, which executes `liveplot.gnu`. It reads `liveplot.dat`, plots it and then repeats every 5 seconds.
 
 All together this little concert pops up a gnuplot window (running in AquaTerm on my machine) which shows the average kB/s, every 5 seconds for the last 100 seconds, for all IP addresses the router knows about.
+
+## Contact
+
+I welcome all comments, suggestions, bug fixes and stories of use.
+
+Heath Raftery
+<a href="mailto:heath@newie.ventures">heath@newie.ventures</a>
