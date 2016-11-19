@@ -45,6 +45,17 @@ Meanwhile `liveplot.sh` runs gnuplot in parallel, which executes `liveplot.gnu`.
 
 All together this little concert pops up a gnuplot window (running in AquaTerm on my machine) which shows the average kB/s, every 5 seconds for the last 100 seconds, for all IP addresses the router knows about.
 
+## TODO
+
+Lots.
+
+   * Make setting IP address easy.
+   * Automatically authenticate.
+   * Deal with heaps of IP addresses in a clearer way (I have 16, and the colours are too hard to distinguish).
+   * Improve refresh rate?
+   * Allow zooming?
+   * Fix bugs.
+   
 ## Contact
 
 I welcome all comments, suggestions, bug fixes and stories of use.
