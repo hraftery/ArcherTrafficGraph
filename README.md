@@ -2,6 +2,8 @@
 
 These scripts provides a live graph of network traffic passing through a TP-Link Archer C7 AC1750.
 
+![Screenshot](/screenshot.png?raw=true "Screenshot")
+
 After years living with a Billion that has a live network graph in its standard web interface, I've moved to an Archer C7 and miss the graph dearly. Whenever there's a speed issue or a download quota issue the first thing I want to do is jump on to the router and see which device is slamming it. The Archer C7 web interface does provide some numerical statistics, but they are extremely difficult to make sense of since there's no sense of progress over time or relative magnitude.
 
 So today I set about giving the Archer a graph. This is what I've hacked together. It's extremely rough, but the results are terrific and I figure with the community's help it could be so much better.
